@@ -1,2 +1,1 @@
-# -SafePasswordiOStLib
 # SafePasswordRustLibiOS
